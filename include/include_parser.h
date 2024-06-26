@@ -1,0 +1,12 @@
+#ifndef INCLUDE_PARSER_H_
+#define INCLUDE_PARSER_H_
+
+#include <string>
+#include <unordered_map>
+#include <vector>
+class IncludeParser {
+public:
+    static std::unordered_map<std::string, std::vector<std::string>> parse_includes(const )
+};
+
+#endif
